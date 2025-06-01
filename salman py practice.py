@@ -26,14 +26,6 @@ for num in range(1,6):
     print(num,"*",num,"=",num*num)
     num+=1
 
-#Align text with padding
-name1="Apple"
-name2="Banana"
-name3="Cherry"
-print(name1.ljust(10),name2.ljust(10),name3.ljust(10))
-#OR
-print(f"{name1:<10} {name2:<10} {name3:<10}")
-
 #Output the result od simple calculation
 print(7+5)
 
