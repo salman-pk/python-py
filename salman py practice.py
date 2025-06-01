@@ -73,9 +73,6 @@ print(list)
 #Create a print statement that used the word 'if'as the part of the text
 print("The keyword 'if' is used to check the condition")
 
-#Make a table using print that have two column
-print("keyword\t|use\nif\t\t|conditinal check\nwhile\t|loop\nbreak\t|exitloop") 
-
 #Print all the capital letter version of 5 keywords
 keywords="if,while,for,def,else"
 print(keywords.upper())
